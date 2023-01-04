@@ -1,5 +1,10 @@
 # BetterDiscordFix
 Commands that I needed to run for BetterDiscord to actually install instead of just breaking
+Dependencies: Git, Node.js
+https://git-scm.com/downloads
+https://nodejs.org/en/download/
+
+Discord must be open
 
 ```
 git clone https://github.com/BetterDiscord/BetterDiscord.git
