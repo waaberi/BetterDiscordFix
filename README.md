@@ -9,7 +9,7 @@ Discord must be open
 ```
 git clone https://github.com/BetterDiscord/BetterDiscord.git
 cd BetterDiscord
-npm install -g pnpm
+npm i -g pnpm
 npm i
 npm i circular-dependency-plugin
 npm i babel-loader
